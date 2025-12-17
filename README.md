@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on  <br>A backend framework for E-commerce websites<br><br>🤝 I’m looking to collaborate on  <br>Full-stack web projects, modern UI/UX design, or business branding for restaurants and cafés.<br><br>🙌 I’m looking for help with  <br>Backend optimization and scalable API development for e-commerce systems.<br><br>🌱 I’m currently learning  <br>Advanced JavaScript and C#.<br><br>⚡ Fun fact  <br>I am Ironman 🙈
+🛠 I’m currently working on  <br>Fubam templating engine<br><br>🤝 I’m looking to collaborate on  <br>Full-stack web projects, modern UI/UX design, or business branding for restaurants and cafés.<br><br>🙌 I’m looking for help with  <br>Digital services sales.<br><br>🌱 I’m currently learning  <br>AI and ML.<br><br>⚡ Fun fact  <br>I am Ironman 🙈
 
 
 ## 🌐 Socials:
